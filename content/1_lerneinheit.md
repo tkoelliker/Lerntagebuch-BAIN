@@ -21,9 +21,9 @@ Da dieses Tagebuch mit Markdown geschrieben wird, haben wir anschliessend ein Tu
 
 [Ich bin ein Link]( http://example.org)
 
-**Images** sind sehr ähnlich wie die Links, nur dass davor ein ! eingefügt wird.
+**Images** sind sehr ähnlich wie die Links, nur dass davor ein ! eingefügt wird und der Text in den [] als Alt-Tag gilt.
 
-![Ich bin ein Bild](https://photo.vogelwarte.ch/galerie-2022/#pic-56)
+![Ich bin ein Bild](https://photo.vogelwarte.ch/wp-content/uploads/2022/09/k2-iacovoni-vincenzo-kentishplover-italy-vincenzo-iacovoni-550x367.jpg)
 
 Die Übung fand ich sehr hilfreich, auch die individuelle Bearbeitung ohne Zeitdruck fand ich nützlich. Zudem war es eine gute Abwechslung zum Unterricht und einen nützlichen Einstieg in den technischen Aspekt des Moduls.
 
