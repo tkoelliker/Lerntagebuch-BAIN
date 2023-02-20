@@ -22,3 +22,8 @@ Die Übung fand ich sehr hilfreich, auch die individuelle Bearbeitung ohne Zeitd
 
 ### HedgeDoc
 Ich kannte HedgeDoc nicht, auf den ersten Blick jedoch sieht es cool und nützlich aus. HedgeDoc ist Dokument welches gemeinsam bearbeitet werden kann (ähnlich wie Google Docs), jedoch mittels Markdown genutzt wird und ohne Anmeldung funktioniert. Es hat noch weitere Funktionen als Markdown, beispielsweise gibt es verschiedene Ansichten (Anzeigen, Bearbeiten, Präsentationsmodus), Upload von Dateien, Versionshistorie aber als Download des Dokuments als Markdown oder HTML sowie Freigabeeinstellungen, nach-dem man Angemeldet ist. Ich habe später im Unterricht mal HedgeDoc genauer ange-schaut (als ggf. Tool für das Lerntagebucht).Man muss sich anmelden, um Dokumente bearbeiten zu können. Ausserdem ist es so, dass wenn man sich unter HedgeDoc einloggt, nur die Demoversion anschauen kann – und diese wird von Zeit zu Zeit gelöscht. Darum wäre es optimaler, wenn man sich einer Organisation anschliessen könnte.  
+
+Alles liebe und bis bald liebes Tagebuch
+
+
+[Zurück zur Übersicht ›](../README.md)
