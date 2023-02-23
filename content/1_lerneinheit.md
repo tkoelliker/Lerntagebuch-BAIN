@@ -1,6 +1,6 @@
 # Lerneinheit 1
 
-## Technische Grundlagen 1
+## Technische Grundlagen
 
 Liebes Tagebuch
 
