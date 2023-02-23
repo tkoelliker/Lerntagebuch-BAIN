@@ -8,6 +8,8 @@ Wir starteten mit dem Modul BAIN und die ersten Eindrücke, Erwartungen und Vork
 
 ### Modulaufbau
 Der Dozent hat uns eine visuelle Übersicht des Moduls gezeigt. Dabei habe ich herausgelesen, dass sich die grundlegende Frage, wie kriege ich die Daten aus verschiedenen Softwaren in einen einzelnen Suchindex und wie lassen sie sich anzeigen? Dabei werden wir Koha für Bibliothek, ArchiveSpace für Archiv, DSpace für Publikationsdaten und OpenRefine für Tabellendaten genauer analysieren. Mittels OAI-PMH (Open Archives Initiative Protocol for Metadata Harvesting) werden die Daten vom System extrahiert. Dadurch liegen die Daten in drei unterschiedlichen Metadatenstandards vor. Anschliessend werden wir anschauen, wie man diese Metadatenstandards in ein System (MARC21) mittels MarcEdit umwandeln und mittels VuFind visuell zugänglich machen kann.
+
+![Aufbau des Moduls](../img/01_Aufbau-Bain.jpg)
  
 
 ### Markdown
