@@ -10,3 +10,5 @@
 5. [Lerneinheit 4 - Funktion und Aufbau von Bibliothekssystemen 1/2](content/4_lerneinheit.md)
 6. [Lerneinheit 5 - Funktion und Aufbau von Bibliothekssystemen 2/2](content/5_lerneinheit.md)
 7. [Lerneinheit 6 - Funktion und Aufbau von Archivsystemen](content/6_lerneinheit.md)
+8. [Übung 1 - Vergleich AtoM vs. ArchivesSpace](content/1_uebung.md)
+9. [Lerneinheit 7 - Repository-Software für Publikationen und Forschungsdaten](content/7_lerneinheit.md)
