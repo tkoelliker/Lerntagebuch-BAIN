@@ -12,3 +12,4 @@
 7. [Lerneinheit 6 - Funktion und Aufbau von Archivsystemen](content/6_lerneinheit.md)
 8. [Übung 1 - Vergleich AtoM vs. ArchivesSpace](content/1_uebung.md)
 9. [Lerneinheit 7 - Repository-Software für Publikationen und Forschungsdaten](content/7_lerneinheit.md)
+10. [Lerneinheit 8 - Metadaten modellieren und Schnittstellen nutzen](content/8_lerneinheit.md)
