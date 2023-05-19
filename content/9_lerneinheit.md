@@ -16,22 +16,22 @@ Zusammen ergibt sich einen Bibliothekskatalog mit einer fortschrittlichen und in
 ### Vergleich Solr und VuFind
 Beim Vergleich dieser zwei Systemen sieht man schon sehr schnell, dass sich VuFind eine schöne UI hat, wohingegen Solr eher technisch aufgestellt ist. Man muss wissen, wie man Solr benutzen muss, denn ohne Handbuch oder Vorwissen ist es bereits sehr schwierig, eine Suchabfrage zu machen. So sieht man beispielsweise unten die Sucheingabe beim q und eingeben muss man ```allfields:psychology``` - nicht sehr intuitiv. Was ich sehr cool fand ist, dass der «Writer Type» mit den unterschiedlichen Formaten hilfreich sein kann.
 
-![Solr mit Sucheingabefeld](../img/solr-query.png)
+![Solr mit Sucheingabefeld](../img/11_solr-query.png)
 
 VuFind hat viele (UI-)Vorteile wie beispielsweise die Facettensuche. Bei VuFind ist diese Suche sehr gut ausgebaut. Was auch cool ist und ein Zusammenspiel mit Solr ist, ist das Highlighting (siehe Bild unten). Ausserdem gibt es Zusatzfeatrues wie Teilen, Zitieren, Drucken was für ein Bibliothekskatalog hilfreich ist.
 
-![VuFind mit Highlighting](../img/vufind-highlighting.png)
+![VuFind mit Highlighting](../img/11_vufind-highlighting.png)
 
 Das Ranking ist bei beiden Systemen gleich, weil VuFind das Ranking, so wie ich es verstanden hab, von Solr nimmt. Wir haben das Rankingverfahren noch detailierter angeschaut. Einen Ausschnitt daraus findest du unten im Bild.
 
-![Rankingverfahren](../img/ranking.png)
+![Rankingverfahren](../img/11_ranking.png)
 
 ### Solr, Algolia und Elasticsearch
 Bei uns im Unternehmen setzen wir neu Algolia auf der Webseite als Suchmaschine ein. Es wurde ausgiebig getestet (leider war ich bei der Evaluation nicht dabei), welche Suchmaschine unseren Bedürfnissen am besten entspricht und Algolia war der Gewinner. Gerne würde ich hier noch kurz auf diese anderen Suchanbieter eingehen. 
 
 Bei [Stackoverflow](https://stackoverflow.com/questions/26484394/algolia-vs-solr-search) gab es einen Beitrag, ob man besser Solr oder Algolia verwenden soll. Algolia sei im Vergleich zu Solr viel schneller und hat mächtige Features. Ausserdem seht einem ein Dashboard für die Verwaltung zur Verfügung. Solr sei gemäss diesem Beitrag «okay but also a black box». Man könne die Suchmaschine gut abstimmen, aber es hat schlechte Resultate für Semantische Suchen. Jedoch könne man mit Solr die Suche besser personalisieren, jedoch sei es zeitaufwändig. Im Beitrag wird eher Algolia oder Elasticsearch für die Implementierung empfohlen als Solr. 
 
-![Rankingverfahren](../img/vergleiche-suchmaschinen.png)
+![Rankingverfahren](../img/11_vergleiche-suchmaschinen.png)
 
 Gemäss [SaaS worthy](https://www.saasworthy.com/compare/algolia-site-search-vs-apache-solr-vs-elasticsearch?pIds=3328,3386,3415) haben Algolia und Elasticsearch sehr ähnliche Featrues. In einem [Artikel von Medium](https://medium.com/@matayoshi.mariano/elasticsearch-vs-algolia-96364f5567a3) wird Algolia mit Elasticsearch verglichen. Dabei ist Elasticsearch im Vergleich zu Algolia günstiger (wenn viele Einträge indexiert werden müssen), jedoch schwieriger zu implementieren und mehr Know-How ist relevant. 
 
