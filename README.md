@@ -14,4 +14,5 @@
 9. [Lerneinheit 7 - Repository-Software für Publikationen und Forschungsdaten](content/7_lerneinheit.md)
 10. [Lerneinheit 8 - Metadaten modellieren und Schnittstellen nutzen](content/8_lerneinheit.md)
 11. [Lerneinheit 9 - Suchmaschinen und Discovery-Systeme](content/9_lerneinheit.md)
+12. [Lerneinheit 10 - Linked Data](content/10_lerneinheit.md)
 
