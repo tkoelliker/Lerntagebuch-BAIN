@@ -11,6 +11,8 @@ Das Fach heisst Bibliotheks- und Archivsinformatik. Da ich nicht aus diesem Bere
 
 Anderseits gab es Themen, die ich für mich nicht begeistern konnte. So waren für mich die Vorstellung der Bibliotheks- und Archivsoftwares nicht sehr hilfreich (abgesehen davon dass ich die Usability ein wenig genauer betrachtet habe). Auch die Modellierung von Metadaten habe ich zu Beginn ein wenig anders vorstellt. Da es jedoch sehr Standards fokussiert war, konnte ich nur begrenzt was für meine Arbeit mitnehmen. 
 
+Jedoch kommend ein wenig ausführlicher ...
+
 ### Das nehme ich mit
 Lehrreich fand ich, einmal mit der Markdown Language zu arbeiten. Ich wollte schon länger mal damit arbeiten / mit informieren und dieses Tagebuch war für mich eine gute Gelegenheit, diese Sprache anzuwenden. 
 
