@@ -1,6 +1,6 @@
 # 2. Lerneinheit
 
-## Technische Grundlagen
+## Technische Grundlagen 2/2
 
 Liebes Tagebuch
 
@@ -26,4 +26,4 @@ Als ersten hatten wir eine kurze Einfürhung durch den Dozenten, anschliessend d
 ### Erstellung Lerntagebuch
 Zum Schluss der Unterrichtseinheit durften wir uns überlegen, wie wir das Lerntagebuch führen wollen und es anschliessend aufsetzen. Für mich gab es zwei Optionen: entweder ich nutze GitHub oder HedgeDoc für das Lerntagebuch. GitHub wäre für mich ein wenig Herausfordernder, da ich GitHub weniger intuitiv finde als HedgeDoc. HedgeDoc wäre für die Erstellung einfacher, obwohl ich doch zuerst schauen musste, wie man es am besten erstellen würde, damit die Einträge bei der Demoversion nicht verloren gehen. Schlussendlich habe ich mich für GitHub entschieden, da ich denke, dass ich mehr von diesem Tool profitieren und lernen werde, auch wenn das Aufsetzen aufwendiger ist. Wie man das Projekt auf GitHub erstellt war zu Beginn für mich nicht klar. Nur schon beim Erstellen eines Ordners hatte ich ein wenig Mühe. Nach ein wenig Googeln und Austausch mit dem Dozenten und Studierenden, habe ich es geschafft, das Tagebuch aufzusetzen und via einer URL zugänglich zu machen. Und hier sind wir ... ;-)
 
-[Zurück zur Übersicht ›](../README.md)
+[‹ Zurück zur Übersicht](../README.md)
