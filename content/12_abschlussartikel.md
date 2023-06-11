@@ -30,4 +30,4 @@ Weniger spannend für mich waren die genauere Betrachtung der Bibliotheks- und A
 Zusammenfassend kann ich sagen, es gab einige Punkte, welche ich interessant fand und diese habe ich v.aa. auch im Tagebuch behandelt. Jedoch war es für mich in diesem Modul schwierig war, Punkte für mein künftiges Berufsfeld zu finden. Das hat aber nichts mit dem Aufbau des Moduls zu tun, sondern mit dem Aufbau des Studiums (dass es für Usability-Majors obligatorisch ist). 
 
 
-[Zurück zur Übersicht ›](../README.md)
+[‹ Zurück zur Übersicht](../README.md)
