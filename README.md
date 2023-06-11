@@ -4,8 +4,8 @@
 ## Inhaltsverzeichnis
 
 - [Einführungsartikel - Wo bin ich gestartet?](content/0_einfuehrungsartikel.md)
-- [Lerneinheit 1 - Technische Grundlagen](content/1_lerneinheit.md)
-- [Lerneinheit 2 - Technische Grundlagen](content/2_lerneinheit.md)
+- [Lerneinheit 1 - Technische Grundlagen 1/2](content/1_lerneinheit.md)
+- [Lerneinheit 2 - Technische Grundlagen 2/2](content/2_lerneinheit.md)
 - [Lerneinheit 3 - OpenRefine](content/3_lerneinheit.md)
 - [Lerneinheit 4 - Funktion und Aufbau von Bibliothekssystemen 1/2](content/4_lerneinheit.md)
 - [Lerneinheit 5 - Funktion und Aufbau von Bibliothekssystemen 2/2](content/5_lerneinheit.md)
