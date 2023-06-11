@@ -21,4 +21,4 @@ Das dritte grosse Thema dieser Lerneinheit war, eine Marktübersicht der Bibliot
 
 Es ist jedoch immer kritisch, wenn eine Unternehmung (sozusagen) ein Monopol besitzt. Die Innovation ist nicht (oder sehr viel weniger) gegeben und das Unternehmen kann praktisch über den Markt beherrschen. Ich wurde sicherlich vom Dozenten ein wenig (oder viel 😉) geprägt, was die Meinung angeht. Aber ich habe mal etwas ähnliches erlebt. Lange Zeit war Sketch die führende Software, wenn es darum ging, digitales Design (UI- und UX-Design) zu gestalten. Es war gut, aber viel Fortschritt hat die Software nicht gemacht. Dann kam Adobe XD sowie Figma auf den Markt und Sketch musste mit den neuen Konkurrentinnen mithalten. Dadurch gab es sehr viele neue, coole und hilfreiche Optionen, die vermutlich nicht entstanden wäre, wenn sie alleine auf dem Markt geblieben wären. Darum kann ich Herrn Lohmeier sicherlich bei diesem Punkt zustimmen: Konkurrenzen fördern die Innovation und ermöglichen und fördern neue, spannende Ideen. 
 
-[Zurück zur Übersicht ›](../README.md)
+[‹ Zurück zur Übersicht](../README.md)
