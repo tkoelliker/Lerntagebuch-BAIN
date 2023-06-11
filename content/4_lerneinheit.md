@@ -22,4 +22,4 @@ Danach hatte ich ziemlich Mühe, um im System das Buch ausleihen zu können. Ich
 
 Jetzt sind wir auch bereits am Ende angelangt ... beim nächsten Eintrag gibt es mehr zu Koha - dann zum Datenimport und -export ;-)
 
-[Zurück zur Übersicht ›](../README.md)
+[‹ Zurück zur Übersicht](../README.md)
