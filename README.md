@@ -1,5 +1,7 @@
 # Lerntagebuch-BAIN
 
+Dies ist das Lerntagebuch von Tabea Kölliker, IW 19tz Zürich für das Modul Bibliotheks- und Archivsinformatik (BAIN). Das Tagebuch ist strukturiert nach den Lerneinheiten (insgesamt 10) plus ein Einführungs- und Abschlussartikel sowie eine Übung. Viel Spass beim lesen.
+
 
 ## Inhaltsverzeichnis
 
