@@ -44,4 +44,4 @@ Ich bin nicht wirklich beteiligt bei der Veröffentlichung der Publikationen auf
 Wir haben wie bei den vorherigen Einheiten ein Programm für die Veröffentlichung von Publikationen angeschaut. Das war hier DSpace. Da ich aktuell an der Recherche für meine Bachelorarbeit bin, fand ich es interessant zu erfahren, wie der Workflow geht, um eine Publikation zu erfassen. Auch deshalb, weil mir viele zu erfassende Felder bekannt vorkamen. 
 
 
-[Zurück zur Übersicht ›](../README.md)
+[‹ Zurück zur Übersicht](../README.md)
