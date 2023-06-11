@@ -32,4 +32,4 @@ Weiter ist mir aufgefallen, dass die Übersichtlichkeit beim ArchivesSpace meine
 Zusammenfassend kann ich sagen, dass mich die Benutzerfreundlichkeit (und auch Übersichtlichkeit von ArchiveSpace mehr überzeugt hat als jene von Koha. Irgendwie hat mich das überrascht da ich angenommen habe, dass eine Bibliothekssoftware fortschrittlicher ist als eine Software für das Archiv. Natürlich sind das nur zwei Systeme von vielen darum würde es mich aus Usability-Sicht noch interessieren, wie andere aufgebaut sind.
 
 
-[Zurück zur Übersicht ›](../README.md)
+[‹ Zurück zur Übersicht](../README.md)
