@@ -37,4 +37,4 @@ Gemäss [SaaS worthy](https://www.saasworthy.com/compare/algolia-site-search-vs-
 
 Ich denke die einzelnen Systeme sind abhängig von den Anforderungen. Solr ist das einzige Open Source Programm der dreien. Trotzdem haben die anderen sicherlich mehr Vorteile – sind jedoch auch teurer. 
 
-[Zurück zur Übersicht ›](../README.md)
+[‹ Zurück zur Übersicht](../README.md)
