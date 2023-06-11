@@ -6,7 +6,7 @@ Liebes Tagebuch
 
 Beim fünften Termin haben wir den Datenimport sowie den Datenexport ins Koha angeschaut. Anschliessend gab es einen kurzes Exkurs in die Marktübersicht der Bibliothekssysteme.
 
-### Datenimport ins Koha
+### Datenimport
 Wir haben zuerst den Datenimport angeschaut. Als erstes musste eine Schnittstelle via Z39.50/SRU-Server im Koha hinzugefügt werden (in unserem Falle GBV). Damit wurde ein Bücherkatalog verlinkt, wo ich anschliessend ein Buch suchen konnte und alle MARC21 Daten ins Koha importieren konnte. Dies ist vor allem geeignet für grosse Import-Mengen.
 
 Ich fand es spannend zu sehen, wie einfach dass eine solche Schnittstelle eingebaut werden kann. So vermute ich, dass auch ein grosser Import an Daten sehr schnell und einfach geschehen kann (solange die Datengrundlage besteht), obwohl die Kontrolle und die Organisation nicht zu unterschätzen ist. Ich finde es sowieso spannend / besser, wenn man durch Bibliotheksverbünde Arbeit aufteilen kann und mittels Schnittstellen die erfassten Daten zur Verfügung stellen kann. 
