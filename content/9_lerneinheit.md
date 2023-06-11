@@ -32,6 +32,7 @@ Nun möchte ich jedoch gerne Solr mit anderen Systemen kritisch vergleichen. Bei
 Bei [Stackoverflow](https://stackoverflow.com/questions/26484394/algolia-vs-solr-search) gab es einen Beitrag, ob man besser Solr oder Algolia verwenden soll. Algolia sei im Vergleich zu Solr viel schneller und hat mächtige Features. Ausserdem steht einem ein Dashboard für die Verwaltung zur Verfügung. Solr sei gemäss diesem Beitrag «okay but also a black box». Man könne die Suchmaschine gut abstimmen, aber es hat schlechte Resultate für die Semantische Suche. Jedoch könne man mit Solr die Suche besser personalisieren, es sei aber zeitaufwändig. Im Beitrag wird eher Algolia oder Elasticsearch für die Implementierung empfohlen als Solr. 
 
 ![Rankingverfahren](../img/11_vergleiche-suchmaschinen.png)
+Quelle Bild: [stackshare](https://stackshare.io/stackups/algolia-vs-elasticsearch-vs-solr)
 
 Gemäss [SaaS worthy](https://www.saasworthy.com/compare/algolia-site-search-vs-apache-solr-vs-elasticsearch?pIds=3328,3386,3415) haben Algolia und Elasticsearch sehr ähnliche Featrues. In einem [Artikel von Medium](https://medium.com/@matayoshi.mariano/elasticsearch-vs-algolia-96364f5567a3) wird Algolia mit Elasticsearch verglichen. Dabei ist Elasticsearch im Vergleich zu Algolia günstiger (wenn viele Einträge indexiert werden müssen), jedoch schwieriger zu implementieren und mehr Know-How ist relevant. 
 
