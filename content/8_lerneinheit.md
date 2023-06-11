@@ -66,4 +66,4 @@ Und zu guter letzt noch das choose Element, welches mehrere Bedingungen abbilden
 
 
 
-[Zurück zur Übersicht ›](../README.md)
+[‹ Zurück zur Übersicht](../README.md)
