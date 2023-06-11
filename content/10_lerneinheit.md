@@ -28,4 +28,4 @@ Linked Open Data finde ich ein sehr spannendes und belobtes Konzept. Die Daten, 
 In meinem Unternehmen wollen wir mit Structured Data da wo es geht arbeiten. Es kommt für uns dadurch zu einem höheren Ranking, die Personen werden eher einmal auf unsere Seite aufmerksam und es hilft auch den Benutzer:innen, die Daten zu erhalten, welche sie suchen. 
 
 
-[Zurück zur Übersicht ›](../README.md)
+[‹ Zurück zur Übersicht](../README.md)
