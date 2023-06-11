@@ -15,4 +15,4 @@ Was wird dich nun in den nächsten paar Monaten erwarten? Hoffentlich viel! Es w
 Dann sind wir mal gespannt, was ich alles erleben werde!
 
 
-[Zurück zur Übersicht ›](../README.md)
+[‹ Zurück zur Übersicht](../README.md)
