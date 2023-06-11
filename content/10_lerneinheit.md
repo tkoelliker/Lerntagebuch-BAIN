@@ -19,6 +19,7 @@ Ein weiteres Beispiel wurde genannt von dbpedia: Daten von Wikipedia wurden geno
 Die Vision von Linked Open Data (LOD) ist, weltweit zugängliche und verknüpfte Daten zu haben. Sie wird oft als eine virtuelle Datenwolke betrachtet, bei der jede:r auf die Daten zugreifen kann. Die Theorie von LOD ist, dass die Daten mehr Wert haben wenn sie mit anderen verknüpft werden können. So können neue Erkenntnisse und Studien erstellt werden. 
 
 ![Linked Open Data Datenwolke](../img/10_LOD-wolke.jpg)
+Quelle Bild: [Wikipedia - Linked Open Data](https://de.wikipedia.org/wiki/Linked_Open_Data#/media/Datei:Lod-cloud_2020-07-27.png)
 
 Linked Open Data finde ich ein sehr spannendes und belobtes Konzept. Die Daten, welche man gesammelt hat mit der Welt zu Teilen und auch andere Daten zu nutzen, welche Personen erfasst haben, finde ich toll. 
 
