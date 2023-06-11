@@ -25,4 +25,4 @@ Bei AtoM ist das Akkordeon eingeklappt bis auch auf die Basisinformationen – d
 
 
 
-[Zurück zur Übersicht ›](../README.md)
+[‹ Zurück zur Übersicht](../README.md)
