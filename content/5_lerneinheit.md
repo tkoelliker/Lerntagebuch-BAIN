@@ -12,7 +12,7 @@ Wir haben zuerst den Datenimport angeschaut. Als erstes musste eine Schnittstell
 Ich fand es spannend zu sehen, wie einfach dass eine solche Schnittstelle eingebaut werden kann. So vermute ich, dass auch ein grosser Import an Daten sehr schnell und einfach geschehen kann (solange die Datengrundlage besteht), obwohl die Kontrolle und die Organisation nicht zu unterschätzen ist. Ich finde es sowieso spannend / besser, wenn man durch Bibliotheksverbünde Arbeit aufteilen kann und mittels Schnittstellen die erfassten Daten zur Verfügung stellen kann. 
 
 ### Datenexport
-Für den Datenexport verwendeten wir die Schnittstelle OAI-PMH, welches regelmässiges autoamtisiertes Abrufen von Änderungen ermöglicht. Genauere Details zu OAI-PMH sowie generell zum Datenexport werden wir in einer anderen Lerneinheit anschauen. 
+Für den Datenexport verwendeten wir die Schnittstelle OAI-PMH, welches regelmässiges autoamtisiertes Abrufen von Änderungen ermöglicht. Genauere Details zu OAI-PMH sowie generell zum Datenexport werden wir in einer anderen Lerneinheit anschauen ([zur Lerneinheit über Metadaten und Schnittstellen](8_lerneinheit.md)). 
 
 Zum Datenexport mittels Koha / OAI-PMH haben wir eine Übung gemacht. Dazu erfasste ich ein Buch im Bibliothekskatalog, welches anschliessend auf der Schnittstelle erschien. Ich war zuerst sehr verwirrt, da ich nicht wusste wo mein erfasster Titel finden kann. Schlussendlich wurde von Herrn Lohmeier gezeigt, dass mittels der URL auf die individuellen Titel zugegriffen werden kann. 
 
