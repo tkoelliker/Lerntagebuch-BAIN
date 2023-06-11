@@ -13,3 +13,6 @@ BAIN ist ein Pflichtfach und um ehrlich zu sein glaube ich nicht, dass ich es ge
 Was wird dich nun in den nächsten paar Monaten erwarten? Hoffentlich viel! Es wird zu jeder Lerneinheiten sowie einigen Übungen einen Eintrag geben. Folgende Themen werde ich bearbeiten: Technische Grundlagen, Funktion & Aufbau von Bibliotheks- sowie Archivsystemen, Repository-Software für Publikationen und Forschungsdaten, Metadaten modellieren, Schnittstellen nutzen, Suchmaschinen und Discovery-Systeme sowie Linked Data. Ich freue mich, mal eine andere Art von Leistungsnachweis führen zu können. Ich sehe für mich aber viel Potenzial in diesem Aufbau des Moduls, da ich (versuchen werde) nach jedem Unterricht das Tagebuch nachzuführen und somit die Unterrichtseinheit zu repetieren und für mich die essenziellen Elemente zu notieren. 
 
 Dann sind wir mal gespannt, was ich alles erleben werde!
+
+
+[Zurück zur Übersicht ›](../README.md)
