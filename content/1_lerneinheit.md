@@ -1,6 +1,6 @@
 # Lerneinheit 1
 
-## Technische Grundlagen
+## Technische Grundlagen 1/2
 
 Liebes Tagebuch
 
@@ -33,4 +33,4 @@ Die Übung fand ich sehr hilfreich, auch die individuelle Bearbeitung ohne Zeitd
 Ich kannte HedgeDoc nicht, auf den ersten Blick jedoch sieht es intuitiv und nützlich aus. HedgeDoc ist ein Dokument, welches gemeinsam bearbeitet werden kann (ähnlich wie Google Docs), jedoch mittels Markdown genutzt wird und ohne Anmeldung funktioniert. Es hat noch weitere Funktionen als Markdown, beispielsweise gibt es Features wie verschiedene Ansichten (Anzeigen, Bearbeiten, Präsentationsmodus), Upload von Dateien, Versionshistorie oder der Download des Dokuments als Markdown oder HTML sowie Freigabeeinstellungen, nachdem man Angemeldet ist. Ich habe später im Unterricht mal HedgeDoc genauer angeschaut (als ggf. Tool für das Lerntagebucht). Man muss sich anmelden, um Dokumente bearbeiten zu können. Ausserdem ist es so, dass wenn man sich unter HedgeDoc einloggt, nur die Demoversion anschauen kann – und diese wird von Zeit zu Zeit gelöscht. Darum wäre es optimaler, wenn man sich einer Organisation anschliessen könnte.
 
 
-[Zurück zur Übersicht ›](../README.md)
+[‹ Zurück zur Übersicht](../README.md)
