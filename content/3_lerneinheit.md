@@ -45,5 +45,5 @@ Auch enorm hilfreich sehe ich die Empfehlung des Clusterings von Namen. So gibt 
 Das wäre das Thema OpenRefine gewesen – Sehr spannend und es gibt viele Vorteile gegenüber von Excel!
 
 
-[Zurück zur Übersicht ›](../README.md)
+[‹ Zurück zur Übersicht](../README.md)
 
